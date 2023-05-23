@@ -3,36 +3,33 @@ layout: index
 published: true
 ---
 
-Course-in-a-Box is a free tool for building and publishing online courses—no prior coding experience required. This guide was made using Course-in-a-Box, so what you see here is what you’ll start with. There are three modules that walk through the course creation process, all linked in the nav bar at the top of the page:
-* **[Setup](/modules/setup/getting-started/)** - Get your instance of Course-in-a-Box up and running
-* **[Content](/modules/content/markdown-and-media)** -  Update the course structure and add your copy & media
-* **[Customize](/modules/customize/favicon)** - Add some (optional) finishing touches
+### What is Artificial Intelligence (AI)
 
-<br> 
+### Audience
+This course is designed for working professionals and targets a heterogeneous audience, varying from AI & ML technical staff to more general and administrative positions, such as Project Managers and Supervisors. Specifically there are three target audiences:
 
-#### Course-in-a-Box Courses We Love ❤️
-Here are some examples of Course-in-a-Box in the wild:
+* Practitioners: those that build or manage the development of AI in their organizations
+* Facilitators: those responsible for guiding the learning cycle
+* Instructors: those who are responsible for adding relevant content/case studies to material, preferably shared on our platform
 
-* [We Are AI](https://dataresponsibly.github.io/we-are-ai/) by Center for Responsible AI
-* [How to Talk about Race](https://how-to-talk-about-race.p2pu.org/) by Amrita Patel and Denise LaForce
-* [Leveraging Learning for Life](https://leveraging-learning.p2pu.org/) by College Unbound
-* [Making and Learning](http://p2pu.github.io/makingandlearning/) by Children’s Museum of Pittsburgh
-* [Designing for Documentation and Assessment](https://playfulmit.github.io/beyond-rubrics/) by MIT Playful Journey Lab
-* [ExplOERer Course](http://www.exploerercourse.org/en/) by Gothenburg University, Open University, and CC Poland
-* [Learning about Learning Circles](https://p2pu.github.io/learning-about-learning-circles/) by P2PU
-* [Queer Cinema for High School](https://queercinema.net/) by Sarah Schrag
+No advanced skills in math, programming, or AI are required for participation. Knowledge of RAI concepts or techniques is also not required or expected. Whether you are an RAI enthusiast or a skeptic, and whether or not your role is technical, this course is for you!
 
-<br> 
+<br>
 
-#### Need some help?
-Our [community forum](https://community.p2pu.org/c/tech/course-in-a-box/78) is a great place to ask questions or find help when you get stuck. Feel free to post there anytime!
+### About this Course
+Welcome to the Center for Responsible AI's course "[TODO: Don't be evil! A practical approach to Responsible Artificial Intelligence (RAI)]". This course provides resources for digital practitioners and those interested in the intricacies of Artificial Intelligence (AI) to avoid the misuse of algorithmic systems in ways that improve society rather than multiply negative practices.
 
-You can also hire P2PU to provide support with learning design, technical setup, course customizations, or web hosting. If you’re interested in collaborating on a project, reach out to us at thepeople@p2pu.org
+This course was designed to help RAI practitioners with two main tasks:
+1. Provide practitioners the tools and resources to learn about RAI concepts with a stakeholder-first approach.
+2. Act as a toolkit for facilitators and instructors, providing resources to educate other practitioners.
 
-<br> 
+This course gives a general overview of RAI concepts and techniques and uses case studies to make material accessible and relevant to your work. The course includes general background and examples of case studies. The course is structured as a learning circle and supports those who have taken the course to serve as facilitators for future offerings. We provide a facilitator guide to support individuals in this role.
 
-#### About Course-in-a-Box
+The course makes heavy use of case studies because of three main reasons:
+1. The analysis of a real-world case study makes the learning process more interactive and exciting for those who are assessing a particular problem and building a common understanding.
+2. It is easier for participants to extrapolate their understanding of RAI concepts given a paradigmatic case study. 
+3. Given that the RAI concepts are mostly abstract by nature, grounding them in tangible examples is an adequate manner to instruct the participants. 
 
-P2PU created Course-in-a-Box in 2014 as a free and lightweight tool for building online courses. We wanted to preserve the modular structure of MOOCs outside of the bulky (and often proprietary) environment of learning/content management systems. Course-in-a-Box is open-source, and we welcome contributions [on our Github repo](https://github.com/p2pu/course-in-a-box).
+We “seed” the course with several case studies and provide resources (guidelines, formatting instructions, jamboards, and other resources) for others to develop and incorporate their case studies into the materials. We invite the community to contribute case studies and make them public on our platform for others to use. 
 
-p.s. Designing a course for learning circles? [Check out the Learning Circle Course Creation guide](https://docs.p2pu.org/courses/creating-courses) for some best practices on course design.
+### Course Materials 
